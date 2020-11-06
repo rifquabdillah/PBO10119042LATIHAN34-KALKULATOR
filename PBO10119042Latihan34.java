@@ -11,6 +11,7 @@ import java.util.Scanner;
  *  Nama : Muhammad Rifqu Abdillah
  *  Kelas: Pbo-IF1
  *  Nim : 10119042 
+ *  Deskripsi: Program ini berisi tentang Kalkulator
  */
 public class PBO10119042Latihan34 {
     
